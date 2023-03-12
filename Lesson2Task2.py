@@ -3,4 +3,4 @@
 
 n = int(input("Print number = "))
 res = n < 20
-print(n)
+print(res)
